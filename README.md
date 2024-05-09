@@ -1,4 +1,4 @@
-# Malaria_Classification
+# Malaria Classification Project
 Prediction of Malaria Cases among Patients using Decision Tree
 
 This study investigates malaria trends and treatment outcomes among sampled patients from the Guratopp Rayfield Primary Health Care (PHC) based on data analytics and machine learning. Findings revealed that majority of the sampled patients were aged between 15 to 45 years, with an average age of 28 years and few outlier ages above 85 years which weren’t considered in the analysis. 
